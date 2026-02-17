@@ -46,4 +46,4 @@ I am a Software Engineering graduate from the **University of Stirling** and a D
 * **Docker Foundations Professional** 
 * **Azure AI Career Essentials** 
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/yadu-nandan-8a4496189/) | [Email](mailto:yadunandancc@gmail.com)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/yadu-nandan-8a4496189/) | [Email](yadunandancc@gmail.com)
