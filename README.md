@@ -7,7 +7,7 @@ I am a Software Engineering graduate from the **University of Stirling** and a D
 
 ##  My Projects
 
-###  [Corporate Health & Wellness Dashboard]((https://github.com/yadu3002/health-wellness-dashboard))
+###  [Corporate Health & Wellness Dashboard](https://github.com/yadu3002/health-wellness-dashboard)
 **Full-Stack & Data Analytics**
 * Built a **Node.js** enterprise platform to process large-scale health data with 10+ interactive dashboards.
 * Engineered automated clinical risk assessment algorithms based on WHO thresholds.
