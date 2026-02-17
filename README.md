@@ -14,7 +14,7 @@ I am a Software Engineering graduate from the **University of Stirling** and a D
 * Optimized data rendering performance by **60%** using custom analysis algorithms.
 * *Tech: Node.js, ApexCharts, XML manipulation, Docxtemplater.*
 
-### 🔐 [Decentralized Biometric Auth]
+### 🔐 [Decentralized Biometric Auth](https://github.com/yadu3002/BioDID)
 **Web3, Security & Mobile**
 * Developed a **Flutter/Python** app using **OpenCV** for facial and fingerprint recognition.
 * Secured identity data using **AES-256**, **IPFS**, and **Ethereum (Sepolia)** smart contracts.
