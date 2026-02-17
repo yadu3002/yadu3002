@@ -5,20 +5,20 @@ I am a Software Engineering graduate from the **University of Stirling** and a D
 
 ---
 
-## 🚀 Featured Projects
+##  My Projects
 
-### 🏥 [Corporate Health & Wellness Dashboard](LINK_TO_REPO)
+###  [Corporate Health & Wellness Dashboard]((https://github.com/yadu3002/health-wellness-dashboard))
 **Full-Stack & Data Analytics**
-* [cite_start]Built a **Node.js** enterprise platform to process large-scale health data with 10+ interactive dashboards[cite: 15].
-* [cite_start]Engineered automated clinical risk assessment algorithms based on WHO thresholds[cite: 16].
-* [cite_start]Optimized data rendering performance by **60%** using custom analysis algorithms[cite: 18].
+* Built a **Node.js** enterprise platform to process large-scale health data with 10+ interactive dashboards.
+* Engineered automated clinical risk assessment algorithms based on WHO thresholds.
+* Optimized data rendering performance by **60%** using custom analysis algorithms.
 * *Tech: Node.js, ApexCharts, XML manipulation, Docxtemplater.*
 
-### 🔐 [Decentralized Biometric Auth](LINK_TO_REPO)
+### 🔐 [Decentralized Biometric Auth]
 **Web3, Security & Mobile**
-* [cite_start]Developed a **Flutter/Python** app using **OpenCV** for facial and fingerprint recognition[cite: 20].
-* [cite_start]Secured identity data using **AES-256**, **IPFS**, and **Ethereum (Sepolia)** smart contracts[cite: 21].
-* [cite_start]Implemented GDPR-compliant identity management via Veramo[cite: 23].
+* Developed a **Flutter/Python** app using **OpenCV** for facial and fingerprint recognition.
+* Secured identity data using **AES-256**, **IPFS**, and **Ethereum (Sepolia)** smart contracts.
+* Implemented GDPR-compliant identity management via Veramo.
 * *Tech: Solidity, Python, Flutter, OpenCV, IPFS, Ethereum.*
 
 ---
@@ -27,23 +27,23 @@ I am a Software Engineering graduate from the **University of Stirling** and a D
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, Java, JavaScript, Kotlin, Solidity, PHP, SQL, Dart [cite: 10] |
-| **Backend & Web** | [cite_start]Node.js, Django, Spring Boot, REST APIs [cite: 7, 11] |
-| **Frontend/Mobile** | [cite_start]React, Flutter, Android Studio [cite: 11] |
-| **DevOps & Cloud** | [cite_start]Docker, Azure, Cloudflare (DNS/CDN), Git, IPFS [cite: 12, 24, 25] |
-| **Data & Databases** | [cite_start]SQL Server, MongoDB, Cassandra, Laserfiche AI [cite: 12, 30] |
+| **Languages** | [cite_start]Python, Java, JavaScript, Kotlin, Solidity, PHP, SQL, Dart |
+| **Backend & Web** | [cite_start]Node.js, Django, Spring Boot, REST APIs |
+| **Frontend/Mobile** | [cite_start]React, Flutter, Android Studio  |
+| **DevOps & Cloud** | [cite_start]Docker, Azure, Cloudflare (DNS/CDN), Git, IPFS  |
+| **Data & Databases** | [cite_start]SQL Server, MongoDB, Cassandra, Laserfiche AI |
 
 ---
 
 ## 📊 Experience Highlights
-* [cite_start]**IT Intern @ Greenhouse Foodstuff Trading:** Automated data extraction using **AI and SQL Server**, eliminating manual entry[cite: 27, 30].
-* [cite_start]**Software Engineering Intern @ Qlub:** Improved operational efficiency by **20%** through Python-based data aggregation[cite: 36, 38].
-* [cite_start]**IT Support Admin @ Sense General Trading:** Configured and automated ERP modules for sales and CRM[cite: 32, 35].
+* **IT Intern @ Greenhouse Foodstuff Trading:** Automated data extraction using **AI and SQL Server**, eliminating manual entry.
+* **Software Engineering Intern @ Qlub:** Improved operational efficiency by **20%** through Python-based data aggregation.
+* **IT Support Admin @ Sense General Trading:** Configured and automated ERP modules for sales and CRM.
 
 ---
 
 ## 📜 Certifications
-* [cite_start]**Docker Foundations Professional** [cite: 47]
-* [cite_start]**Azure AI Career Essentials** [cite: 48]
+* **Docker Foundations Professional** 
+* **Azure AI Career Essentials** 
 
-📫 **Let's Connect:** [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:yadunandancc@gmail.com)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/yadu-nandan-8a4496189/) | [Email](mailto:yadunandancc@gmail.com)
