@@ -14,7 +14,7 @@ I am a Software Engineering graduate from the **University of Stirling** and a D
 * Optimized data rendering performance by **60%** using custom analysis algorithms.
 * *Tech: Node.js, ApexCharts, XML manipulation, Docxtemplater.*
 
-### 🔐 [Decentralized Biometric Auth](https://github.com/yadu3002/BioDID)
+###  [Decentralized Biometric Auth](https://github.com/yadu3002/BioDID)
 **Web3, Security & Mobile**
 * Developed a **Flutter/Python** app using **OpenCV** for facial and fingerprint recognition.
 * Secured identity data using **AES-256**, **IPFS**, and **Ethereum (Sepolia)** smart contracts.
@@ -23,27 +23,27 @@ I am a Software Engineering graduate from the **University of Stirling** and a D
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, Java, JavaScript, Kotlin, Solidity, PHP, SQL, Dart |
-| **Backend & Web** | [cite_start]Node.js, Django, Spring Boot, REST APIs |
-| **Frontend/Mobile** | [cite_start]React, Flutter, Android Studio  |
-| **DevOps & Cloud** | [cite_start]Docker, Azure, Cloudflare (DNS/CDN), Git, IPFS  |
-| **Data & Databases** | [cite_start]SQL Server, MongoDB, Cassandra, Laserfiche AI |
+| **Languages** | Python, Java, JavaScript, Kotlin, Solidity, PHP, SQL, Dart |
+| **Backend & Web** | Node.js, Django, Spring Boot, REST APIs |
+| **Frontend/Mobile** | React, Flutter, Android Studio  |
+| **DevOps & Cloud** | Docker, Azure, Cloudflare (DNS/CDN), Git, IPFS  |
+| **Data & Databases** | SQL Server, MongoDB, Cassandra, Laserfiche AI |
 
 ---
 
-## 📊 Experience Highlights
+##  Experience Highlights
 * **IT Intern @ Greenhouse Foodstuff Trading:** Automated data extraction using **AI and SQL Server**, eliminating manual entry.
 * **Software Engineering Intern @ Qlub:** Improved operational efficiency by **20%** through Python-based data aggregation.
 * **IT Support Admin @ Sense General Trading:** Configured and automated ERP modules for sales and CRM.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 * **Docker Foundations Professional**
 * **Azure AI Career Essentials** 
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/yadu-nandan-8a4496189/) | [Email](yadunandancc@gmail.com)
+ **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/yadu-nandan-8a4496189/) | [Email](yadunandancc@gmail.com)
